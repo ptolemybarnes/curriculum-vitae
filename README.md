@@ -1,6 +1,6 @@
 # Ptolemy Barnes
 
-<img src="https://raw.github.com/ptolemybarnes/curriculum-vitae/master/photo.jpg" alt="sleep furiously" style="width: 200px;"/>
+<img src="https://raw.githubusercontent.com/ptolemybarnes/curriculum-vitae/master/images/photo.jpg" alt="sleep furiously" style="width: 200px;"/>
 
 I am a full-stack web-developer with a passion for outside-in, behaviour driven, development. 
 I aspire to write clean, lean, and modular code. In December '14 I began a 12-week immersive web-development
