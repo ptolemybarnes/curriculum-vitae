@@ -4,7 +4,7 @@
 
 I am a full-stack web-developer with a passion for outside-in, behaviour driven, development. 
 I aspire to write clean, lean, and modular code. In December '14 I began a 12-week immersive web-development
-course at [Makers Academy](http://www.makersacademy.com) in Shoreditch, London.
+course at [Makers Academy](http://www.makersacademy.com) in Shoreditch, London, during which I met a lot of amazing people, wrote a lot of code, won a Hackerthon, and worked with local clients on real projects.
 
 When the weather's fine I like to be outdoors, preferably on a bike. I have competed internationally
 in volleyball, ultimate frisbee, and football. Since co-founding a sadly unprofitable
