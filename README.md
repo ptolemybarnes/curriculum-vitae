@@ -18,6 +18,8 @@ bagel start-up, I have been an amateur baker in search of the perfect rise.
 | [IAmMe](https://github.com/ciawalsh/iamME) | [IAmME.com](http://i-am-me.herokuapp.com/) | MA Final project from Team IAmMe: myself, [Danielle](http://www.github.com/ddemkiw), [Charlie](http://www.github.com/ciawalsh), [India](http://www.github.com/indiadearlove) and [Gus](https://github.com/guspowell). Tired of trawling irrelevant content to find out what to do on the weekend? IAmME is an event-discovery platform with the form of a calendar. |
 | [Makerbot](https://github.com/jacobmitchinson/MakerBot) | (MakerBot is currently in hiding) | A Slack bot replete with more API wrappers than you can "HELLO WORLD!" at. Designed to sit in the Makers Academy Slack channel, MakerBot offers useful advice to students.
 | [TillTechTest](https://github.com/ptolemybarnes/ma-wk12-till-tech-test) | [TTT on Heroku](https://till-tech-test.herokuapp.com/) | A modelling of a receipt-printing till, written as a mock-tech-test on completion of Makers Academy WDI. |
+| [Frontliners](https://github.com/ptolemybarnes/frontliners-api) | Offline, having been rebuilt in Scala | An API built as part of the UN Influx Hackerthon, February '15. Awarded the "Hearts" prize by a panel of judged including a former UN Deputy Secretary General |
+
 
 ## Technical Skills
 
@@ -40,6 +42,7 @@ bagel start-up, I have been an amateur baker in search of the perfect rise.
     <td>
       Ruby
       <br>Javascript
+      <br>Korean
     </td>
   </tr>
   <tr>
@@ -87,10 +90,12 @@ bagel start-up, I have been an amateur baker in search of the perfect rise.
 ## Non-Technical Skills
 
 #### Teaching/Coaching
-I have extensive experience teaching students from the ages of 8 - 70. I worked for 2.5 years as a public school teacher in the Republic of Korea.
+I have extensive experience teaching students from the ages of 8 - 70. I worked for 2.5 years as an English teacher and tutor in the Republic of Korea.
+Prior to this I trained for the CELTA, a teaching qualification run by Cambridge University.
 On graduation from Makers Academy I was invited to work as an Alumni Helper.
 
-#### Management/Administration
+#### Writing 
+I have excellent writing skills. My non-academic writings on environmental issues on the Korean peninsula have been published by the Jeju Weekly, an English-language newspaper on Jeju Island, ROK.
 
 #### Other Qualifications 
 I have a NAUI Scuba Diver's license.
@@ -98,10 +103,11 @@ I have a NAUI Scuba Diver's license.
 ## Academic Background
 
 #### The University of Sheffield, Sheffield (2010 - 2011) 
-MA, Historical Research (Distinction) 
+MA, Historical Research (Distinction). My MA thesis on the philosophy of history was awarded the 
+George Richard Potter prize, given to the highest-graded MA thesis of the academic year. 
 
 #### The University of Sheffield, Sheffield (2007 - 2010) 
-BA, History (First Class Honours) 
+BA, History (First Class Honours).
 
 ## Work Experience
 
