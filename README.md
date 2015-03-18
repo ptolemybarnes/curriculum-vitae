@@ -92,10 +92,10 @@ bagel start-up, I have been an amateur baker in search of the perfect rise.
 #### Teaching/Coaching
 I have extensive experience teaching students from the ages of 8 - 70. I worked for 2.5 years as an English teacher and tutor in the Republic of Korea.
 Prior to this I trained for the CELTA, a teaching qualification run by Cambridge University.
-On graduation from Makers Academy I was invited to work as an Alumni Helper.
+On graduation from Makers Academy I was invited back to work as a support coach. 
 
 #### Writing 
-I have excellent writing skills. My non-academic writings on environmental issues on the Korean peninsula have been published by the Jeju Weekly, an English-language newspaper on Jeju Island, ROK.
+I have excellent writing skills, with articles on environmental issues on the Korean peninsula published by the Jeju Weekly, an English-language newspaper on Jeju Island, ROK.
 
 #### Other Qualifications 
 I have a NAUI Scuba Diver's license.
