@@ -5,8 +5,11 @@ I first 'pushed' a website to production for a school geography project in 2001,
 
 ### Employment
 
-**Tifosy**  (March '16 - )
-- [Tifosy](tifosy.com) is a crowd-funding start-up targeted at sports teams and organizations. I have been working across the stack to build a system that generates certificates, complex UI flows, and integrations with third-party payment services. I've also used benchmarking and monitoring tools to debug performance issues.
+**Trainline** (January '17 - present)
+- [Trainline](trainine.com) is a digital rail platform. I have been working in a cross-functional team using node, react, and c#.
+
+**Tifosy**  (March '16 - January '17)
+- [Tifosy](tifosy.com) is a crowd-funding start-up targeted at sports teams and organizations. I worked across the stack to build a system that generates certificates, complex UI flows, and integrations with third-party payment services. I've also used benchmarking and monitoring tools to debug performance issues.
 
 **Makers Academy** (March '15 - March '16)
 - [Makers Academy](http://www.makersacademy.com/) is an intensive programming 'bootcamp' based in Shoreditch, London. As a coach, I juggled leading stand-ups, running workshops and retros, deepening my understanding of OOP, debugging students' issues, conducting code-reviews, and working on the website and internal tools.
