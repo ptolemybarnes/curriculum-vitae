@@ -1,12 +1,15 @@
 ## Ptolemy Barnes
-I am a full-stack web-developer aspiring to write clean, lean, and modular code.
+I am a full-stack web-developer aspiring to write clean, lean, and modular code. I am currently based in Barcelona, Spain.
 
 I first 'pushed' a website to production for a school geography project in 2001, but it wasn't until years later that I picked up Ruby and got hooked on the [Project Euler](https://projecteuler.net/) problems. Shortly after I decided to make the jump into the world of software development, finding a community and profession within which I feel at home.
 
 ### Employment
 
-**OneMaths** - Full Stack Developer, (January '18 - present)
-- [OneMaths](https://onemaths.com) is an e-learning service for maths students. I have been consulting for this early-stage startup to help flesh out their feature-set.
+**Workshare** - Full Stack Developer, (June '18 - present)
+- [Workshare](https://www.workshare.com/) is a tool for managing the lifecycle of a legal transaction. I have been working across a microservices architecture, with React on the frontend.
+
+**OneMaths** - Full Stack Developer, (January '18 - April '18)
+- [OneMaths](https://onemaths.com) is an e-learning service for maths students. I consulted for this early-stage startup to help flesh out their feature-set.
 
 **Trainline** - Front End Developer, (January '17 - January '18)
 - [Trainline](https://trainline.com) is a digital rail platform. At trainline I deployed daily to production as part of a cross-functional team using node, react, and c#.
