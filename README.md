@@ -4,9 +4,11 @@ I am a full-stack web-developer aspiring to write clean, lean, and modular code.
 I first 'pushed' a website to production for a school geography project in 2001, but it wasn't until years later that I picked up Ruby and got hooked on the [Project Euler](https://projecteuler.net/) problems. Shortly after I decided to make the jump into the world of software development, finding a community and profession within which I feel at home.
 
 ### Employment
+**ThoughtWorks Spain** - Consultant Developer, (May '19 - Present)
+- [ThoughtWorks](https://www.thoughtworks.com/) is a global technology consultancy renowned as an early adopter of processes and practices now considered industry standard. I am part of a stack-agnostic team committed to agile, TDD, and pair programming.
 
-**Workshare** - Full Stack Developer, (June '18 - present)
-- [Workshare](https://www.workshare.com/) is a tool for managing the lifecycle of a legal transaction. I have been working across a microservices architecture, with React on the frontend.
+**Workshare** - Full Stack Developer, (June '18 - May'19)
+- [Workshare](https://www.workshare.com/) is a tool for managing the lifecycle of a legal transaction. I worked across a microservices architecture, with React on the frontend.
 
 **OneMaths** - Full Stack Developer, (January '18 - April '18)
 - [OneMaths](https://onemaths.com) is an e-learning service for maths students. I consulted for this early-stage startup to help flesh out their feature-set.
@@ -55,6 +57,7 @@ When not programming I like to spend my time outside, usually cycling. I've comp
 
 #### Other Qualifications
 - NAUI Scuba Diver's license.
+- Sailing license
 
 ### Academic
 
@@ -64,9 +67,3 @@ George Richard Potter prize, given to the highest-graded MA thesis of the academ
 
 #### The University of Sheffield, Sheffield (2007 - 2010)
 - **BA, History (First Class Honours).**
-
-## Other Employment History
-
-* Immersive English Teacher, Jeff's Academy, Jeju City, ROK (2013 - '14)
-* English Language Instructor, ShinJeju Foreign Language Education Center, Jeju City, ROK (2012 - '13)
-* Draughtsman (part-time), Indigo Design Architects, Brighton, UK (2006 - 2011)
