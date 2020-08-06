@@ -23,7 +23,7 @@ I first 'pushed' a website to production for a school geography project in 2001,
 - [Makers Academy](http://www.makersacademy.com/) is an intensive programming 'bootcamp' based in Shoreditch, London. As a coach, I juggled leading stand-ups, running workshops and retros, deepening my understanding of OOP, debugging students' issues, conducting code-reviews, and working on the website and internal tools.
 
 ### Craftsmanship
-I learned software development through the lens of software craftsmanship and extreme programming. I learned that good **communication**, disciplined **refactoring**, and a coherent  **testing** strategy are essential to building maintainable software. Earlier this year I attended a week-long masterclass given by [Fred George](https://www.linkedin.com/in/fred-george-5965b5), deepening my understanding of design patterns in object-oriented programming.
+I learned software development through the lens of software craftsmanship and extreme programming. I learned that good **communication**, disciplined **refactoring**, and a coherent  **testing** strategy are essential to building maintainable software. In 2016 I attended a week-long masterclass given by [Fred George](https://www.linkedin.com/in/fred-george-5965b5), deepening my understanding of design patterns in object-oriented programming.
 
 ### Communication
 As a coach at **Makers Academy** I led stand-ups and retros with teams of aspiring developers. This experience left me with the belief that teams succeed or fail on the quality of their communication. When I'm programming or making a comment on a PR, I always try to ask myself the question: 'How is this going to be understood by another developer?'
