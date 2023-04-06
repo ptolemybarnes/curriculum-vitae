@@ -1,11 +1,9 @@
 ## Ptolemy Barnes
 I am a full-stack web-developer aspiring to write clean, lean, and modular code. I am currently based in Barcelona, Spain.
 
-I first 'pushed' a website to production for a school geography project in 2001, but it wasn't until years later that I picked up Ruby and got hooked on the [Project Euler](https://projecteuler.net/) problems. Shortly after I decided to make the jump into the world of software development, finding a community and profession within which I feel at home.
-
 ### Employment
-**ThoughtWorks Spain** - Consultant Developer, (May '19 - Present)
-- [ThoughtWorks](https://www.thoughtworks.com/) is a global technology consultancy renowned as an early adopter of processes and practices now considered industry standard. I am part of a stack-agnostic team committed to agile, TDD, and pair programming.
+**ThoughtWorks Spain** - Consultant Developer, (May '19 - April '23)
+- [ThoughtWorks](https://www.thoughtworks.com/) is a global technology consultancy renowned as an early adopter of processes and practices now considered industry standard. For the last year I was leading a team of 6 developers working for a large ecommerce client in the digital advertising space.
 
 **Workshare** - Full Stack Developer, (June '18 - May'19)
 - [Workshare](https://www.workshare.com/) is a tool for managing the lifecycle of a legal transaction. I worked across a microservices architecture, with React on the frontend.
